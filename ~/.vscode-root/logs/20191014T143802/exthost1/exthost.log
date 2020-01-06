@@ -1,0 +1,18 @@
+[2019-10-14 17:52:08.956] [exthost] [info] extension host started
+[2019-10-14 17:52:08.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-14 17:52:08.974] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/16/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-14 17:52:08.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-14 17:52:08.979] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/16/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-14 17:52:09.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-14 17:52:09.055] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/16/usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-14 17:52:09.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-14 17:52:09.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/16/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-14 17:52:09.243] [exthost] [info] eager extensions activated
+[2019-10-14 17:54:15.953] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2019-10-14 17:54:15.953] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/16/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-10-14 17:54:16.033] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2019-10-14 17:54:16.033] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/16/usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2019-10-14 17:54:47.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2019-10-14 17:54:47.943] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/16/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-10-14 18:07:01.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2019-10-14 18:07:01.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/16/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
